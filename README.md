@@ -1,2 +1,0 @@
-# netCoreWebapi
-netCore webapi
