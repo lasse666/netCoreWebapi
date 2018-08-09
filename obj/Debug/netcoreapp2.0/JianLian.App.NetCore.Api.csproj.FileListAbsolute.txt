@@ -1,0 +1,54 @@
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.NetCore.Api.deps.json
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.NetCore.Api.runtimeconfig.json
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.NetCore.Api.runtimeconfig.dev.json
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.NetCore.Api.dll
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.NetCore.Api.pdb
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.Common.dll
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.Common.pdb
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\obj\Debug\netcoreapp2.0\JianLian.App.NetCore.Api.csprojAssemblyReference.cache
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\obj\Debug\netcoreapp2.0\JianLian.App.NetCore.Api.csproj.CoreCompileInputs.cache
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\obj\Debug\netcoreapp2.0\JianLian.App.NetCore.Api.AssemblyInfoInputs.cache
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\obj\Debug\netcoreapp2.0\JianLian.App.NetCore.Api.AssemblyInfo.cs
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\obj\Debug\netcoreapp2.0\JianLian.App.NetCore.Api.csproj.CopyComplete
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\obj\Debug\netcoreapp2.0\JianLian.App.NetCore.Api.dll
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\obj\Debug\netcoreapp2.0\JianLian.App.NetCore.Api.pdb
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.NetCore.Api.dll.config
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\Dapper.dll
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.Biz.dll
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.IBiz.dll
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.Model.dll
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.Model.Transfer.dll
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.Repository.dll
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.Biz.pdb
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.IBiz.pdb
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.Model.pdb
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.Model.Transfer.pdb
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.Repository.pdb
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\Dapper.pdb
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.NetCore.Api.dll.config
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.NetCore.Api.deps.json
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.NetCore.Api.runtimeconfig.json
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.NetCore.Api.runtimeconfig.dev.json
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.NetCore.Api.dll
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.NetCore.Api.pdb
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\Dapper.dll
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.Biz.dll
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.Common.dll
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.IBiz.dll
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.Model.dll
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.Model.Transfer.dll
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.Repository.dll
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.Biz.pdb
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.Common.pdb
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.IBiz.pdb
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.Model.pdb
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.Model.Transfer.pdb
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\JianLian.App.Repository.pdb
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\bin\Debug\netcoreapp2.0\Dapper.pdb
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\obj\Debug\netcoreapp2.0\JianLian.App.NetCore.Api.csprojAssemblyReference.cache
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\obj\Debug\netcoreapp2.0\JianLian.App.NetCore.Api.csproj.CoreCompileInputs.cache
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\obj\Debug\netcoreapp2.0\JianLian.App.NetCore.Api.AssemblyInfoInputs.cache
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\obj\Debug\netcoreapp2.0\JianLian.App.NetCore.Api.AssemblyInfo.cs
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\obj\Debug\netcoreapp2.0\JianLian.App.NetCore.Api.csproj.CopyComplete
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\obj\Debug\netcoreapp2.0\JianLian.App.NetCore.Api.dll
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\obj\Debug\netcoreapp2.0\JianLian.App.NetCore.Api.pdb
