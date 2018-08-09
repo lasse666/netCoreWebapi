@@ -1,0 +1,24 @@
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.Repository\obj\Debug\netcoreapp2.0\JianLian.App.Repository.csprojAssemblyReference.cache
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.Repository\obj\Debug\netcoreapp2.0\JianLian.App.Repository.csproj.CoreCompileInputs.cache
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.Repository\obj\Debug\netcoreapp2.0\JianLian.App.Repository.AssemblyInfoInputs.cache
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.Repository\obj\Debug\netcoreapp2.0\JianLian.App.Repository.AssemblyInfo.cs
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.Repository\bin\Debug\netcoreapp2.0\JianLian.App.Repository.deps.json
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.Repository\bin\Debug\netcoreapp2.0\JianLian.App.Repository.dll
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.Repository\bin\Debug\netcoreapp2.0\Dapper.dll
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.Repository\bin\Debug\netcoreapp2.0\Dapper.pdb
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.Repository\obj\Debug\netcoreapp2.0\JianLian.App.Repository.csproj.CopyComplete
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.Repository\bin\Debug\netcoreapp2.0\JianLian.App.Repository.pdb
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.Repository\obj\Debug\netcoreapp2.0\JianLian.App.Repository.dll
+d:\documents\visual studio 2017\Projects\JianLian.App.NetCore.Api\JianLian.App.Repository\obj\Debug\netcoreapp2.0\JianLian.App.Repository.pdb
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.Repository\bin\Debug\netcoreapp2.0\JianLian.App.Repository.deps.json
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.Repository\bin\Debug\netcoreapp2.0\JianLian.App.Repository.dll
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.Repository\bin\Debug\netcoreapp2.0\JianLian.App.Repository.pdb
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.Repository\bin\Debug\netcoreapp2.0\Dapper.dll
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.Repository\bin\Debug\netcoreapp2.0\Dapper.pdb
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.Repository\obj\Debug\netcoreapp2.0\JianLian.App.Repository.csprojAssemblyReference.cache
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.Repository\obj\Debug\netcoreapp2.0\JianLian.App.Repository.csproj.CoreCompileInputs.cache
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.Repository\obj\Debug\netcoreapp2.0\JianLian.App.Repository.AssemblyInfoInputs.cache
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.Repository\obj\Debug\netcoreapp2.0\JianLian.App.Repository.AssemblyInfo.cs
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.Repository\obj\Debug\netcoreapp2.0\JianLian.App.Repository.csproj.CopyComplete
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.Repository\obj\Debug\netcoreapp2.0\JianLian.App.Repository.dll
+F:\JianLian.App.NetCore.Api\JianLian.App.NetCore.Api\JianLian.App.Repository\obj\Debug\netcoreapp2.0\JianLian.App.Repository.pdb

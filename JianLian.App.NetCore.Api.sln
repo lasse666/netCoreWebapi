@@ -1,0 +1,87 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JianLian.App.NetCore.Api", "JianLian.App.NetCore.Api\JianLian.App.NetCore.Api.csproj", "{18D08139-9B6B-4D73-BC39-25D4EF2ABEEB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{DF6991A8-C50B-4531-9CA3-EACAACFB7ED2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{38179567-7410-4BDE-8564-78561105F72F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Plugins", "Plugins", "{1418851F-3886-4253-B91D-D14C0B49C4B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository", "Repository", "{F7453F81-0516-4738-BCFA-B2F482DA81D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{235869DA-B291-41E4-B851-30150B9563E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JianLian.App.Common", "JianLian.App.Common\JianLian.App.Common.csproj", "{09F0D200-3799-4852-81D2-CF5AA934327C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JianLian.App.Model", "JianLian.App.Model\JianLian.App.Model.csproj", "{56FFA94A-5A46-446A-B12E-99B064F9C0E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JianLian.App.Model.Transfer", "JianLian.App.Model.Transfer\JianLian.App.Model.Transfer.csproj", "{66390EC9-AA4D-4293-8A48-BE6A33EA116E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JianLian.App.Biz", "JianLian.App.Biz\JianLian.App.Biz.csproj", "{91EAF431-1424-45A9-AA07-40FEFDF50624}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JianLian.App.IBiz", "JianLian.App.IBiz\JianLian.App.IBiz.csproj", "{2B554463-2AA2-4D45-AAC6-A2CC91386F3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JianLian.App.Repository", "JianLian.App.Repository\JianLian.App.Repository.csproj", "{0A900B39-4EB8-4268-A8B3-BC8D6643BAD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JianLian.App.Dapper", "JianLian.App.Dapper\JianLian.App.Dapper.csproj", "{C01220DF-D061-4759-B8BF-AF6D0C67489B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18D08139-9B6B-4D73-BC39-25D4EF2ABEEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D08139-9B6B-4D73-BC39-25D4EF2ABEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D08139-9B6B-4D73-BC39-25D4EF2ABEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D08139-9B6B-4D73-BC39-25D4EF2ABEEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09F0D200-3799-4852-81D2-CF5AA934327C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F0D200-3799-4852-81D2-CF5AA934327C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F0D200-3799-4852-81D2-CF5AA934327C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F0D200-3799-4852-81D2-CF5AA934327C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56FFA94A-5A46-446A-B12E-99B064F9C0E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FFA94A-5A46-446A-B12E-99B064F9C0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FFA94A-5A46-446A-B12E-99B064F9C0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FFA94A-5A46-446A-B12E-99B064F9C0E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66390EC9-AA4D-4293-8A48-BE6A33EA116E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66390EC9-AA4D-4293-8A48-BE6A33EA116E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66390EC9-AA4D-4293-8A48-BE6A33EA116E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66390EC9-AA4D-4293-8A48-BE6A33EA116E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91EAF431-1424-45A9-AA07-40FEFDF50624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91EAF431-1424-45A9-AA07-40FEFDF50624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91EAF431-1424-45A9-AA07-40FEFDF50624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91EAF431-1424-45A9-AA07-40FEFDF50624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B554463-2AA2-4D45-AAC6-A2CC91386F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B554463-2AA2-4D45-AAC6-A2CC91386F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B554463-2AA2-4D45-AAC6-A2CC91386F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B554463-2AA2-4D45-AAC6-A2CC91386F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A900B39-4EB8-4268-A8B3-BC8D6643BAD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A900B39-4EB8-4268-A8B3-BC8D6643BAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A900B39-4EB8-4268-A8B3-BC8D6643BAD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A900B39-4EB8-4268-A8B3-BC8D6643BAD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C01220DF-D061-4759-B8BF-AF6D0C67489B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C01220DF-D061-4759-B8BF-AF6D0C67489B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C01220DF-D061-4759-B8BF-AF6D0C67489B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C01220DF-D061-4759-B8BF-AF6D0C67489B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{18D08139-9B6B-4D73-BC39-25D4EF2ABEEB} = {DF6991A8-C50B-4531-9CA3-EACAACFB7ED2}
+		{09F0D200-3799-4852-81D2-CF5AA934327C} = {1418851F-3886-4253-B91D-D14C0B49C4B0}
+		{56FFA94A-5A46-446A-B12E-99B064F9C0E4} = {38179567-7410-4BDE-8564-78561105F72F}
+		{66390EC9-AA4D-4293-8A48-BE6A33EA116E} = {38179567-7410-4BDE-8564-78561105F72F}
+		{91EAF431-1424-45A9-AA07-40FEFDF50624} = {235869DA-B291-41E4-B851-30150B9563E5}
+		{2B554463-2AA2-4D45-AAC6-A2CC91386F3D} = {235869DA-B291-41E4-B851-30150B9563E5}
+		{0A900B39-4EB8-4268-A8B3-BC8D6643BAD9} = {F7453F81-0516-4738-BCFA-B2F482DA81D7}
+		{C01220DF-D061-4759-B8BF-AF6D0C67489B} = {F7453F81-0516-4738-BCFA-B2F482DA81D7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ED29CD0-D14E-4701-87DE-ED2E7D434248}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="BizService\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JianLian.App.Model\JianLian.App.Model.csproj" />
+    <ProjectReference Include="..\JianLian.App.Repository\JianLian.App.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
